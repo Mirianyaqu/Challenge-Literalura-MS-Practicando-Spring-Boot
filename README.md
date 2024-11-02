@@ -1,3 +1,5 @@
+
+
 #**📚 Proyecto LiterAlura**
 LiterAlura es una aplicación interactiva de gestión de libros desarrollada en Java y Spring Boot, que permite a los usuarios consultar, registrar y gestionar información de libros y autores. Este proyecto es parte de un challenge de Alura y tiene como objetivo facilitar la organización y búsqueda de libros con diversas opciones de filtrado y visualización.
 
@@ -22,7 +24,10 @@ El sistema de LiterAlura permite las siguientes acciones a través de su menú i
 ───────────────────────────────────────────────────────────────────────────────────────
                     💡 **Elija una opción válida** 💡
 ───────────────────────────────────────────────────────────────────────────────────────
-**📋** Funcionalidades****
+
+
+
+**📋**** Funcionalidades**
 1.Buscar Libro por Título: Permite buscar libros específicos ingresando un título.
 2. Listar Libros Registrados: Muestra todos los libros almacenados en la base de datos.
 3. Listar Libros por Idiomas: Filtra y muestra los libros disponibles según el idioma.
@@ -34,16 +39,21 @@ El sistema de LiterAlura permite las siguientes acciones a través de su menú i
 0. Salir: Cierra la aplicación.
 
 
+
+
 🚀 **Tecnologías Utilizadas**
 Java: Lenguaje de programación principal.
 Spring Boot: Framework utilizado para la configuración y desarrollo de la aplicación.
 PostgreSQL: Base de datos relacional para almacenar la información de libros y autores.
 Hibernate: ORM (Object-Relational Mapping) para facilitar la interacción con la base de datos.
 
+
+
 **📋 Ejemplo de Uso**
 Aquí tienes un ejemplo de cómo usar algunas opciones del menú:
 
-Buscar Libro por Título (Opción 1):
+
+**Buscar Libro por Título (Opción 1):**
 Ingresa el título del libro que deseas buscar. La aplicación mostrará los detalles del libro si está registrado.
 
 1
@@ -68,6 +78,8 @@ _____________________________________________________________________
 
 
 
+
+
 **Top de los libros mas descargados (Opción 4):****Muestra una lista de los 10 libros de la base de datos y los 10 de la aplicacion
 4
 ══════════════════════════════════════════════════════════════════════════════════════
@@ -85,6 +97,10 @@ _____________________________________________________________________
   🔥 Libro 10: 'The Tragical History of Doctor Faustus: From the Quarto of 1604' - con  6,859 descargas 💥
 ══════════════════════════════════════════════════════════════════════════════════════
 
+
+
+
+
 🌐 ¡Directo desde Gutendex! Los 10 libros más populares del momento: 🌟
 ---------------------------------------------------------------------------------------
 
@@ -101,7 +117,11 @@ _____________________________________________________________________
   📘 Libro 10: 'MIDDLEMARCH' - con  39,632 descargas 🌍
 ═══════════════════════════════════════════════════════════════════════════════
 
-Listar Autores por Años (Opción 7):muestra los autores vivos en ese lapso de tiempo
+
+
+
+
+**Listar Autores por Años (Opción 7):**muestra los autores vivos en ese lapso de tiempo
 7
 Indica un año para consultar qué autores estaban vivos en el siglo correspondiente: 
 1800
@@ -114,6 +134,9 @@ Indica un año para consultar qué autores estaban vivos en el siglo correspondi
 ➤ Fecha Fallecimiento: | •1817
 ➤ libro:               | •Pride and Prejudice
 _______________________________________________________
+
+
+
 
 👤 Autor: _______________________________________________________
           ❄❄❄❄❄❄❄❄ ✍️ AUTOR  ❄❄❄❄❄❄❄❄           
